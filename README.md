@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/akash-jain1306/akash-jain1306.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently pursuing my M.S. under Dr. Balaraman Ravindran and co-guided by Dr. Rupesh Nasre at IIT Madras. I joined IIT Madras in July 2015. My area of research is Machine Learning and Distributed Graph Processing Frameworks for Complex Network Analysis. I am working on community detection algorithms for distributed graph processing frameworks (i.e. GraphX, GofFish) to figure out structural patterns in the dynamic graphs.
 
 ### Markdown
 
