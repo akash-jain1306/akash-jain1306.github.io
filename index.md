@@ -1,7 +1,7 @@
 <title> Akash Jain </title> 
 ## About Me
 
-I am currently pursuing my M.S. under Dr. Balaraman Ravindran and co-guided by Dr. Rupesh Nasre at IIT Madras. I joined IIT Madras in July 2015. My area of research is Machine Learning and Distributed Graph Processing Frameworks for Complex Network Analysis. I am working on community detection algorithms for distributed graph processing frameworks (i.e. GraphX, GofFish) to figure out structural patterns in dynamic graphs.
+I am currently working in Oracle Financial Services Software Limited at Bangalore in R&D department as a developer in Blockchain team. Here, we develop solutions using Hyperledger Blockchain and explore other Blockchains i.e. Ethereum and Corda.  
 
 ### Publications:
 <ul>
@@ -23,6 +23,7 @@ I am currently pursuing my M.S. under Dr. Balaraman Ravindran and co-guided by D
 I have worked in Computer Sciences Corporation India Pvt. Ltd. from July 2012 - September 2014 as a Associate Professional: Product Developer in new business Accelerator team.
 
 # Academic Details
+I have completed my M.S. from Indian Institute of Technology, Madras in Computer Science and Engineering in 2018. I worked under Dr. Balaraman Ravindran and co-guided by Dr. Rupesh Nasre at IIT Madras. I joined IIT Madras in July 2015. My area of research is Machine Learning and Distributed Graph Processing Frameworks for Complex Network Analysis. I am working on community detection algorithms for distributed graph processing frameworks (i.e. GraphX, GofFish) to figure out structural patterns in dynamic graphs.
 I have completed my B.E. from Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya, Indore in Computer Science and Engineering in 2012.
 
 # Contact:
