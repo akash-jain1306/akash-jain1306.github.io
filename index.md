@@ -28,6 +28,6 @@ I have completed my B.E. from Institute of Engineering and Technology, Devi Ahil
 
 # Contact:
 
-[Resume](pdfs/Resume.pdf)
+[Resume](Akash_Jain_MS_IITM_3_Years_Oracle.pdf)
 
 akki [at] cse[dot]iitm[dot]ac[dot]in
