@@ -1,7 +1,14 @@
 <title> Akash Jain </title> 
 ## About Me
 
-I am currently working in Oracle Financial Services Software Limited at Bangalore in R&D department as a developer in Blockchain team. Here, we develop solutions using Hyperledger Blockchain and explore other Blockchains i.e. Ethereum and Corda. 
+I am currently working in Oracle Financial Services Software Limited at Bangalore in R&D department as a developer in Blockchain team. Here, we develop solutions using Hyperledger Blockchain and explore other Blockchains i.e. Ethereum and Corda.
+
+Oracle Financial Services Software: (Application Developer 2)
+   - Working on projects where my role involves hands-on experience in Java, Blockchain (Hyperledger Fabric Chaincode), goLang, ActieMQ,      Springboot, WebServices, Jenkins (CI-CD), Apache Camel, Docker and coordinating with multiple teams and mentoring new hires.
+
+IIT Madras (Masters)
+   - Worked on research problems in the area of Big Data, Machine Learning, Graphs and Social Network Analysis. My work involved hands-      on experience in Java, Apache Hadoop, Apache Spark, GoFFish, Graph algorithms, HDFS, Maven, Docker, Cloud and Virtualizations,          Cassandra, MATLAB
+   - Published a research paper in an International conference which focuses on detection of cyber-communities in social networks,            recommendations based on the interest group, and estimating hidden features in a social network
 
 ### Publications:
 <ul>
@@ -20,7 +27,7 @@ I am currently working in Oracle Financial Services Software Limited at Bangalor
    </li></ul>
 
 # Previous Work Experience
-I have worked in Computer Sciences Corporation India Pvt. Ltd. from July 2012 - September 2014 as a Associate Professional: Product Developer in new business Accelerator team. Here, I did application programming and enhancements for a CSC specific insurance product delivered to the client. Provided support and fixed bugs also mentored and taught new resources to work and collaborate proactively.
+I have worked in Computer Sciences Corporation India Pvt. Ltd. from July 2012 - September 2014 as a Associate Professional: Product Developer in new business Accelerator team. Here I assisted in enhancing a CSC’s in-house product nbA by completing the development and deployment of several modules. I have helped in setting up a local development environment to expedite debugging and development, thereby reducing the turn around timefor new projects. Also, Cleared the Product Knowledge Framework Examination. I provided support and fixed bugs also mentored and taught new resources to work collaboratly.
 
 # Academic Details
 I have completed my M.S. from Indian Institute of Technology, Madras in Computer Science and Engineering in 2018. I worked under Dr. Balaraman Ravindran and co-guided by Dr. Rupesh Nasre at IIT Madras. I joined IIT Madras in July 2015. My area of research is Machine Learning and Distributed Graph Processing Frameworks for Complex Network Analysis. I am working on community detection algorithms for distributed graph processing frameworks (i.e. GraphX, GofFish) to figure out structural patterns in dynamic graphs.
